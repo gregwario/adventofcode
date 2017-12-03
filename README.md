@@ -9,3 +9,7 @@ Code challenges by [Eric Wastl](http://was.tl/).
 ## Day 1 [(instructions)](./day1prompt.txt)
 - [Day 1 Part 1](./day1part1.js)
 - [Day 1 Part 2](./day1part2.js)
+
+## Day 2 [(instructions)](./day2prompt.txt)
+- [Day 2 Part 1](./day2part1.js)
+- [Day 2 Part 2](./day2part2.js)
