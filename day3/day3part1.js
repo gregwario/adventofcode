@@ -8,7 +8,7 @@ const input = 361527;
 20   7   8   9  10
 21  22  23---> ...
 
-tough problem... i am go brute force, add more inputs and look for some patterns
+tough problem... i'll go brute force, add more inputs and look for some patterns
 65  64  63  62  61  60  59  58  57
 66  37  36  35  34  33  32  31  56
 67  38  17  16  15  14  13  30  55
