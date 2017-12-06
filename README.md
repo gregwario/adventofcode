@@ -30,4 +30,4 @@ Code challenges by [Eric Wastl](http://was.tl/).
 ## Day 5 [(instructions)](./day5/day5prompt.txt)
 
 * [Day 5 Part 1](./day5/day5part1.js) - exit the CPU
-* Day 5 Part 2
+* [Day 5 Part 2](./day5/day5part2.js) - exit the CPU, with a twist
