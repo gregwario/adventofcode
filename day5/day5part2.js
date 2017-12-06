@@ -4,10 +4,7 @@ const exitCPU = input => {
   let position = 0;
   while (position !== -1) {
     let currentValue = instructions[position];
-    if (
-      typeof instructions[position] === "undefined" ||
-      position > instructions.length
-    ) {
+    if (position >= instructions.length) {
       position = -1;
     } else {
       if (currentValue >= 3) {
