@@ -8,10 +8,8 @@ const exitCPU = input => {
       position = -1;
     } else {
       if (currentValue >= 3) {
-        // if the offset was three or more, decrease it by 1.
         instructions[position]--;
       } else {
-        // Otherwise, increase it by 1 as before.
         instructions[position]++;
       }
       position += currentValue;
