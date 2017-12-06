@@ -20,7 +20,6 @@ const exitCPU = input => {
       typeof instructions[position] === "undefined" ||
       position > instructions.length
     ) {
-      console.log(position);
       position = -1;
     } else {
       instructions[position]++;
