@@ -4,17 +4,6 @@ const exitCPU = input => {
   let position = 0;
   while (position !== -1) {
     let currentValue = instructions[position];
-    /* 
-      the instructions mention that if a value is 0,
-      the value is incremented and a jump is not counted.
-      the solution requires this increment to count as a jump.
-      contacted @ericwastl, to see if this is a bug in the solution,
-      or in my approach.
-    */
-    // if (currentValue === 0) {
-    //   // if the value is 0, it doesn't count as a jump.
-    //   instructions[position]++;
-    // } else {
     if (
       typeof instructions[position] === "undefined" ||
       position > instructions.length
@@ -25,7 +14,6 @@ const exitCPU = input => {
       position += currentValue;
       jumps++;
     }
-    // }
   }
   return jumps;
 };
