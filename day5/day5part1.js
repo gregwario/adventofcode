@@ -2,7 +2,6 @@ const exitCPU = input => {
   let jumps = 0;
   let instructions = input.split("\n").map(item => parseInt(item, 10));
   let position = 0;
-  let lastPosition = 0;
   while (position !== -1) {
     let currentValue = instructions[position];
     /* 
@@ -23,7 +22,6 @@ const exitCPU = input => {
       position = -1;
     } else {
       instructions[position]++;
-      lastPosition = position;
       position += currentValue;
       jumps++;
     }
