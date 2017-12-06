@@ -6,7 +6,11 @@ const exitCPU = input => {
   while (position !== -1) {
     let currentValue = instructions[position];
     /* 
-    the instructions mention that if a value is 0, the 
+      the instructions mention that if a value is 0,
+      the value is incremented and a jump is not counted.
+      the solution requires this increment to count as a jump.
+      contacted @ericwastl, to see if this is a bug in the solution,
+      or in my approach.
     */
     // if (currentValue === 0) {
     //   // if the value is 0, it doesn't count as a jump.
