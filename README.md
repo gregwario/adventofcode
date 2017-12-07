@@ -31,3 +31,8 @@ Code challenges by [Eric Wastl](http://was.tl/).
 
 * [Day 5 Part 1](./day5/day5part1.js) - exit the CPU
 * [Day 5 Part 2](./day5/day5part2.js) - exit the CPU, with a twist
+
+## Day 6 [(instructions)](./day6/day6prompt.txt)
+
+* [Day 6 Part 1](./day6/day6part1.js) - distribute blocks
+* [Day 6 Part 2](./day6/day6part2.js) - distribute blocks second time
