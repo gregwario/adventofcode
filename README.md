@@ -36,3 +36,8 @@ Code challenges by [Eric Wastl](http://was.tl/).
 
 * [Day 6 Part 1](./day6/day6part1.js) - distribute blocks
 * [Day 6 Part 2](./day6/day6part2.js) - distribute blocks second time
+
+## Day 7 [(instructions)](./day7/day7prompt.txt)
+
+* [Day 7 Part 1](./day7/day7part1.js) - tower peak problem
+* Day 7 Part 2 - tower balance problem
