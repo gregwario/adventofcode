@@ -41,3 +41,8 @@ Code challenges by [Eric Wastl](http://was.tl/).
 
 * [Day 7 Part 1](./day7/day7part1.js) - tower peak problem
 * Day 7 Part 2 - tower balance problem
+
+## Day 8 [(instructions)](./day8/day8prompt.txt)
+
+* [Day 8 Part 1](./day8/day8part1.js) - step through conditional registers
+* Day 8 Part 2
