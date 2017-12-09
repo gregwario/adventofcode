@@ -44,5 +44,12 @@ Code challenges by [Eric Wastl](http://was.tl/).
 
 ## Day 8 [(instructions)](./day8/day8prompt.txt)
 
-* [Day 8 Part 1](./day8/day8part1.js) - step through conditional registers
-* Day 8 Part 2
+* [Day 8 Part 1](./day8/day8part1.js) - step through conditional registers, max
+  after
+* [Day 8 Part 2](./day8/day8part2.js) - step through conditional registers, max
+  during
+
+## Day 9 [(instructions)](./day9/day9prompt.txt)
+
+* [Day 9 Part 1](./day9/day9part1.js) - count groups
+* [Day 9 Part 2](./day9/day9part2.js) - count garbage
