@@ -53,3 +53,13 @@ Code challenges by [Eric Wastl](http://was.tl/).
 
 * [Day 9 Part 1](./day9/day9part1.js) - count groups
 * [Day 9 Part 2](./day9/day9part2.js) - count garbage
+
+## Day 10 [(instructions)](./day10/day10prompt.txt)
+
+* [Day 10 Part 1](./day10/day10part1.js) - knot
+* Day 10 Part 2 - ???
+
+## Day 11 [(instructions)](./day11/day11prompt.txt)
+
+* [Day 11 Part 1](./day11/day11part1.js) - hex grid
+* Day 11 Part 2 - hex grid furthest distance
