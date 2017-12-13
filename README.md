@@ -63,3 +63,9 @@ Code challenges by [Eric Wastl](http://was.tl/).
 
 * [Day 11 Part 1](./day11/day11part1.js) - hex grid
 * Day 11 Part 2 - hex grid furthest distance
+
+## Day 12 [(instructions)](./day12/day12prompt.txt)
+
+* [Day 12 Part 1](./day12/day12part1.js) - circuits in a list of hashes
+* [Day 12 Part 2](./day12/day12part2.js) - groups of circuits in a list of
+  hashes
