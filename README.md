@@ -62,7 +62,7 @@ Code challenges by [Eric Wastl](http://was.tl/).
 ## Day 11 [(instructions)](./day11/day11prompt.txt)
 
 * [Day 11 Part 1](./day11/day11part1.js) - hex grid
-* Day 11 Part 2 - hex grid furthest distance
+* [Day 11 Part 2](./day11/day11part2.js) - hex grid furthest distance
 
 ## Day 12 [(instructions)](./day12/day12prompt.txt)
 
