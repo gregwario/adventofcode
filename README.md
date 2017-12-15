@@ -69,3 +69,18 @@ Code challenges by [Eric Wastl](http://was.tl/).
 * [Day 12 Part 1](./day12/day12part1.js) - circuits in a list of hashes
 * [Day 12 Part 2](./day12/day12part2.js) - groups of circuits in a list of
   hashes
+
+## Day 13
+
+* Day 13 Part 1 - Packet Scanners
+* Day 13 Part 2 - ???
+
+## Day 14
+
+* Day 14 Part 1 - Disk Defragmentation
+* Day 14 Part 2 - ???
+
+## Day 15 [(instructions)](./day15/day15prompt.txt)
+
+* [Day 15 Part 1](./day15/day15part1.js) - dueling generators
+* [Day 15 Part 2](./day15/day15part2.js) - picky dueling generators hashes
