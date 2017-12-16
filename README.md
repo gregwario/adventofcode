@@ -84,3 +84,8 @@ Code challenges by [Eric Wastl](http://was.tl/).
 
 * [Day 15 Part 1](./day15/day15part1.js) - dueling generators
 * [Day 15 Part 2](./day15/day15part2.js) - picky dueling generators hashes
+
+## Day 16 [(instructions)](./day16/day16prompt.txt)
+
+* [Day 16 Part 1](./day16/day16part1.js) - dancing programs
+* Day 16 Part 2
