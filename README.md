@@ -89,3 +89,8 @@ Code challenges by [Eric Wastl](http://was.tl/).
 
 * [Day 16 Part 1](./day16/day16part1.js) - dancing programs
 * Day 16 Part 2
+
+## Day 17 [(instructions)](./day17/day17prompt.txt)
+
+* [Day 17 Part 1](./day17/day17part1.js) - spinlock
+* Day 17 Part 2 - spinlock 50,000,000
